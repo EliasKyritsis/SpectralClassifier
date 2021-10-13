@@ -15,7 +15,7 @@ Elias Kyritsis, Grigoris Maravelias, Andreas Zezas, Paolo Bonfini, Konstantinos 
 
 
 ### Application of the models
-In this repository you will find all the needed jupyter notebooks and the pre-trained models for the different implementations of RF algorithm presented in the paper. As an example dataset we use the file *test_sample* . When you use your own dataset just change this file. If you want to use a different format for your input data you can use it **but remember** that you have change the jupyter notebooks accordingly.  
+In this repository you will find all the needed jupyter notebooks and the pre-trained models for the different implementations of RF algorithm presented in the paper. As an example dataset we use the file *test_sample* . When you use your own dataset just change this file. If you want to use a different format for your input data you can do it **but remember** that you have change the jupyter notebooks accordingly.  
 - **Application of RF model**\
 In case you would like to use the RF implementation in order to get the predictions for your dataset you have to download localy the files: *RF_application.ipynb* and *RF_best_model_17_lines_FINAL.joblib* . Do not forget to change the *path* destination targeting to your local working directory. 
 - **Application of KDE-RF model**\
