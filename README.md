@@ -2,7 +2,7 @@
 
 Repository for the paper "A new automated tool for the spectral classification of OB stars"\
 Astronomy & Astrophysics, accepted\
-ArXiv:xxxxxxxx
+ArXiv:2110.10669
 
 **Authors:**\
 Elias Kyritsis, Grigoris Maravelias, Andreas Zezas, Paolo Bonfini, Konstantinos Kovlakas, Pablo Reig
